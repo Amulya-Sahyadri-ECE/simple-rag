@@ -1,0 +1,7 @@
+My name is Alex.
+I live in Bangalore.
+I work as a software engineer.
+My company was founded in 2018.
+The company provides software development services.
+Our office is open Monday to Friday, 9 AM to 6 PM.
+Employees receive 20 days of paid leave every year.
